@@ -15,6 +15,8 @@ Urdu Ligatures dataset  / 38K-Training images &amp; 7K-Testing images  / Uniform
   <img src="SampleImages/2074_Original_RetuSinu.jpg" width=200>
   <img src="SampleImages/27_Original_RetuNRSI.jpg" width=200>
   <img src="SampleImages/0_Original_RetuNoisy12.jpg" width=200>
+  <img src="SampleImages/2483_Original_RetuNoisy12.jpg" width=200>
+  
 </p>
 # Urdu Ligatures Dataset (Synthetic)
 
