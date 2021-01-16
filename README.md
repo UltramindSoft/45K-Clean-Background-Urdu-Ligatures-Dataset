@@ -25,7 +25,7 @@ Urdu Ligatures dataset  / 38K-Training images &amp; 7K-Testing images  / Uniform
 .<br>
 
 ## Cleaned Background based Urdu Ligatures
---->>> The <b>UrText dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and the <b>annotation </b> can be obtained after 30March2021, by <b>emailing the address below</b>. 
+--->>> The <b>UrText dataset</b> consisting of more than 45000 images (also corresponding 45000 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and the <b>annotation </b> can be obtained after 30March2021, by <b>emailing the address below</b>. 
 .<br>
 .<br>
 <br>
