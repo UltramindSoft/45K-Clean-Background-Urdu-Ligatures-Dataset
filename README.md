@@ -8,13 +8,13 @@ Urdu Ligatures dataset  / 38K-Training images &amp; 7K-Testing images  / Uniform
 <b>Synthetic ->> Urdu Ligatures Dataset for Urdu Text Recognition </b>
 
 <p>
-  <img src="SampleImages/855_Original_RetuSinu.jpg" width=303>
- <img src="SampleImages/36_Original_RetuNoisy1.jpg" width=303>
-  <br>
+  <img src="SampleImages/855_Original_RetuSinu.jpg" width=200>
+ <img src="SampleImages/36_Original_RetuNoisy1.jpg" width=200>
  <img src="SampleImages/2068_Original_RetuBarrel.jpg" width=200>
 <img src="SampleImages/5_Original_RetuNoisy12.jpg" width=200>
   <img src="SampleImages/2074_Original_RetuSinu.jpg" width=200>
   <img src="SampleImages/27_Original_RetuNRSI.jpg" width=200>
+  <img src="SampleImages/0_Original_RetuNoisy12.jpg" width=200>
 </p>
 # Urdu Ligatures Dataset (Synthetic)
 
