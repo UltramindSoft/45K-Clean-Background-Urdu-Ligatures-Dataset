@@ -1,4 +1,4 @@
-# 45K-Clean-Background-Urdu-Ligatures-Dataset
+# 45K+ Clean-Background-Urdu-Ligatures-Dataset
 Urdu Ligatures dataset  / 38K-Training images &amp; 7K-Testing images  / Uniformly imbedded Ligatures
 
 
@@ -18,7 +18,7 @@ Urdu Ligatures dataset  / 38K-Training images &amp; 7K-Testing images  / Uniform
   <img src="SampleImages/2483_Original_RetuNoisy12.jpg" width=200>
   
 </p>
-# Urdu Ligatures Dataset (Synthetic)
+# Urdu Ligatures Dataset (Synthetic 45K+ images)
 
 --->>> The <b>Given dataset</b> here is <b>most similar to dataset</b> we used in our exmperiments/research with minor differences. The images and their annotation are given in text with its filenames contain Urdu ligature information and name of files representing types of transformations applied. <b>So, from  given annotation information and images they can be used for training different machine learning algorithms.
 .<br>
